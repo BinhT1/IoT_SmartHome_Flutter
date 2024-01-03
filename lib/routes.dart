@@ -20,7 +20,7 @@ dynamic getPages(context) {
     PageNames.login: (context) => const Login(),
     PageNames.register: (context) => const Register(),
     PageNames.forgotPassword: (context) => const ForgotPassword(),
-    PageNames.home: (context) => const Home(),
+    PageNames.home: (context) => Home(),
     PageNames.room: (context) => const Room(),
   };
 }
