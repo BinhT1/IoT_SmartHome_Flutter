@@ -23,6 +23,8 @@ class Auth {
         email: email, password: password);
   }
 
+  Future<void> signInWithApple() async {}
+
   Future<void> signOut() async {
     await _firebaseAuth.signOut();
   }

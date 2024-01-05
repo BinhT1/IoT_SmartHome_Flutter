@@ -12,7 +12,20 @@
           "package_name": "com.example.smart_home"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "584739164786-iiaog9q10b0a03rq8b61n8r1rcgb8k9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_home",
+            "certificate_hash": "786b2c5d030811a51ce5f1b33e7e3185c4657358"
+          }
+        },
+        {
+          "client_id": "584739164786-q67bja7u7els3aohvfv4b6dn3dtm64jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCQ_Xhk52CGtxwgE-7EvId1mRoBQIa5wak"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584739164786-q67bja7u7els3aohvfv4b6dn3dtm64jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
